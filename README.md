@@ -1,5 +1,5 @@
 # DSA-Nexus-II
-Data Structures and Algorithms I-Problem-Solveing
+Data Structures and Algorithms II-Problem-Solveing
 <br>
 B.Sc. Engg. in CSE, BAUST(On-going)
 <br>
